@@ -1,0 +1,51 @@
+@charset "ISO-8859-1";
+.bg{
+	background-color: #0076ce;
+}
+#div-bg{
+	background-color: #808080;
+	height:100%;
+}
+.navbar-nav li a {
+    color: white;
+}
+.navbar-nav li a:hover{
+	background-color: #006bbd;
+}
+.navbar-nav li a:active{
+	background-color: #006bbd;
+}
+.navbar{
+	margin-bottom: 0!important;
+	border-radius: 0 !important;
+}
+html,body{
+    height: 100%
+}
+footer {
+  text-align: center;
+  background-color: #0076ce;
+  color: white;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  text-align: center;
+}
+#about{
+	background-color:#808080;
+	color : white;
+	height: 150px;
+}
+#login .container #login-row #login-column #login-box {
+  margin-top: 120px;
+  border: 1px solid #9C9C9C;
+  background-color: #EAEAEA;
+}
+#login .container #login-row #login-column #login-box #login-form {
+  padding: 20px;
+}
+#login .container #login-row #login-column #login-box #login-form #register-link {
+  margin-top: -85px;
+}
